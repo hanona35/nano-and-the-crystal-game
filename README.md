@@ -13,7 +13,7 @@ In this game, Nano collects crystals 💎 in space while escaping from an evil b
 
 ## 📸 Screenshot
 
-![Game Screenshot](Screenshot_2025-06-14-02-11-07-556.jpg)
+![Game Screenshot](Screenshot_2025-06-14-02-11-07-556_com.android.chrome.jpg)
 
 ## 📝 Credits
 Game created by Haneen Khalid 🌟  
