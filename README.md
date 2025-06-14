@@ -11,8 +11,9 @@ In this game, Nano collects crystals 💎 in space while escaping from an evil b
 - Scratch (block-based visual programming)
 - Logic design, event-based actions, sounds
 
-## 📸 Screenshots
-_(Add a screenshot of the game here if you'd like!)_
+## 📸 Screenshot
+
+![Game Screenshot](Screenshot_2025-06-14-02-11-07-556.jpg)
 
 ## 📝 Credits
 Game created by Haneen Khalid 🌟  
